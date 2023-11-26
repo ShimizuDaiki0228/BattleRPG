@@ -1,0 +1,18 @@
+[Aa]ssets/DogKnight/Material/*
+[Aa]ssets/DogKnight/Mesh/*
+[Aa]ssets/DogKnight/Texture/*
+[Aa]ssets/DogKnight/Scenes/*
+
+[Aa]ssets/RPG Monster Duo PBR Polyart/Materials/*
+[Aa]ssets/RPG Monster Duo PBR Polyart/Meshes/*
+[Aa]ssets/RPG Monster Duo PBR Polyart/Prefabs/*
+[Aa]ssets/RPG Monster Duo PBR Polyart/Textures/*
+[Aa]ssets/RPG Monster Duo PBR Polyart/Scenes/*
+
+Library
+Logs
+obj
+Build
+*csproj
+Build.7z
+.vs
